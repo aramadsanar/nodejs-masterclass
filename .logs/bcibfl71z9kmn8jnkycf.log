@@ -1,4 +1,2 @@
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552726117586},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552726117586}
-
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552726122532},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552726122532}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552726654433},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552726654433}
 
