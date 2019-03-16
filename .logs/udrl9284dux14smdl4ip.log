@@ -1,0 +1,4 @@
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552726117600},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552726117600}
+
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552726122536},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552726122536}
+

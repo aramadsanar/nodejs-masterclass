@@ -1,0 +1,4 @@
+{"check":{"id":"7huh9s4udtter4zr1ejw","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552726117585},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552726117585}
+
+{"check":{"id":"7huh9s4udtter4zr1ejw","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552726122533},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552726122533}
+
