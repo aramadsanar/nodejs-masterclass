@@ -17,6 +17,12 @@ environments.staging = {
       accountSid: 'AC2936025c02c29303db798c26eb04e217',
       authToken: 'b6b1dbee28598652b37a0ad5469f7a3c',
       fromPhone: "+12016902095"
+   },
+   templateGlobals: {
+      appName: 'uptimeChecker',
+      companyName: 'NotARealCompany, Inc',
+      yearCreated: '2019',
+      baseUrl: 'http://localhost:3000'
    }
 }
 
@@ -31,6 +37,12 @@ environments.production = {
       accountSid: 'AC2936025c02c29303db798c26eb04e217',
       authToken: 'b6b1dbee28598652b37a0ad5469f7a3c',
       fromPhone: "+12016902095"
+   },
+   templateGlobals: {
+      appName: 'uptimeChecker',
+      companyName: 'NotARealCompany, Inc',
+      yearCreated: 2019,
+      baseUrl: 'http://localhost:5000'
    }
 }
 
