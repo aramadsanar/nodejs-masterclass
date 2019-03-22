@@ -1,36 +1,42 @@
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829688540},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829688540}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255548617},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255548617}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829693516},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829693516}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255553573},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255553573}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829698513},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829698513}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255558567},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255558567}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829703539},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829703539}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255563566},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255563566}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829708555},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829708555}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255568552},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255568552}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829713589},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829713590}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255573551},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255573551}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829718541},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829718541}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255578545},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255578545}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829723564},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829723564}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255583573},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255583573}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829728533},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829728533}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255588813},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255588813}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829733552},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829733552}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255593581},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255593581}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829738579},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829738579}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255598597},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255598597}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829743573},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829743573}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255603575},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255603575}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829748567},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829748567}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255608612},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255608612}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829753563},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829753563}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255613578},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255613578}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829758567},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829758567}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255618613},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255618613}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829763581},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829763581}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255623586},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255623586}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829768617},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829768617}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255628609},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255628609}
 
-{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829773584},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829773584}
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255633627},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255633627}
+
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255638626},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255638626}
+
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255643604},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255643604}
+
+{"check":{"id":"udrl9284dux14smdl4ip","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255648944},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255648944}
 

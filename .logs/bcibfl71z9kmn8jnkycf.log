@@ -1,36 +1,42 @@
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829688543},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829688543}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255548615},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255548615}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829693518},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829693518}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255553573},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255553573}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829698516},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829698516}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255558572},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255558572}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829703530},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829703530}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255563573},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255563573}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829708559},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829708559}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255568553},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255568553}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829713590},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829713590}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255573551},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255573551}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829718526},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829718526}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255578551},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255578551}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829723546},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829723546}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255583569},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255583569}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829728536},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829728536}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255588813},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255588813}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829733551},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829733551}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255593584},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255593584}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829738574},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829738574}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255598590},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255598590}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829743577},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829743577}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255603573},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255603573}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829748576},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829748576}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255608609},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255608609}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829753545},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829753545}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255613578},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255613578}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829758562},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829758562}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255618611},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255618611}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829763579},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829763579}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255623582},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255623582}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829768612},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829768612}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255628600},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255628600}
 
-{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1552829773589},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1552829773589}
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255633610},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255633610}
+
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255638626},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255638626}
+
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255643608},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255643608}
+
+{"check":{"id":"bcibfl71z9kmn8jnkycf","userPhone":"6281398510190","protocol":"https","url":"google.com","method":"get","successCodes":[200,500],"timeoutSeconds":5,"state":"down","lastChecked":1553255648946},"outcome":{"error":false,"responseCode":301},"state":"down","alert":false,"time":1553255648946}
 
